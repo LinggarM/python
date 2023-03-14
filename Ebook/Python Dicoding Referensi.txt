@@ -1,0 +1,36 @@
+https://pypi.org/
+python --version
+https://docs.python.org/id/3.8/library/venv.html
+https://docs.python.org/id/3.8/installing/index.html
+https://www.jetbrains.com/pycharm/
+https://jupyter.readthedocs.io/en/latest/install.html
+IBM Watson Studio
+	https://cloud.ibm.com/registration?cm_sp=Cloud-Home-_-LeadspaceReg-IBMCloud_CloudHome-_-LSReg
+	https://cloud.ibm.com/login
+	Object Storage -> Lite
+	https://dataplatform.cloud.ibm.com/login?context=cpdaas
+	Go To IBM Cloud Pak for Data -> New Project -> Create an empty project -> Create
+	Add to Project -> Notebook -> Create
+https://colab.research.google.com/notebooks/
+Mode :
+	Interactive, Script (scripting), dan Notebook
+	Alternatif : IBM Watson Studio, Google Colab, glot.io, REPL.it, dan ideone.com
+https://www.python.org/dev/peps/pep-0008/
+Batasi panjang kode setiap baris hingga 79 karakter. Untuk komentar atau dokumentasi, usahakan untuk tidak melebihi 72 karakter.
+
+https://docs.python.org/id/3.8/tutorial/introduction.html
+https://docs.python.org/id/3.8/library/stdtypes.html
+https://docs.python.org/id/3.8/reference/datamodel.html#the-standard-type-hierarchy
+
+https://docs.python.org/id/3.8/library/string.html#format-specification-mini-language
+https://docs.python.org/id/3.8/library/string.html%23format-specification-mini-language
+https://docs.python.org/id/3.8/library/string.html#format-string-syntax
+
+https://automatetheboringstuff.com/2e/chapter6/
+https://docs.python.org/3/reference/lexical_analysis.html#literals
+https://python-reference.readthedocs.io/en/latest/docs/str/
+
+https://automatetheboringstuff.com/2e/chapter4/
+https://www.w3schools.com/python/python_lists.asp
+https://www.w3schools.com/python/python_sets.asp
+https://www.w3schools.com/python/python_strings.asp
