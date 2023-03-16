@@ -1,0 +1,6 @@
+2023-03-16 22:11:15,536 - INFO - Result: 5.0
+2023-03-16 22:11:15,538 - ERROR - Error occurred: division by zero
+2023-03-16 22:13:10,329 - INFO - Result: 5.0
+2023-03-16 22:13:10,329 - ERROR - Error occurred: division by zero
+2023-03-16 22:38:53,274 - INFO - Result: 5.0
+2023-03-16 22:38:53,277 - ERROR - Error occurred: division by zero
