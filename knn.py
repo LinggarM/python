@@ -41,4 +41,4 @@ x_train = [(1,2), (4,5), (3,4)]
 y_train = ['A', 'A', 'B']
 x_test = (5,6)
 
-print(f"{x_test} belong to class: ", knn(x_train, y_train, x_test, 1))
+print(f"{x_test} belong to class: ", knn(x_train, y_train, x_test, 3))
